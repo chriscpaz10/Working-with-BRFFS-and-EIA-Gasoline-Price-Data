@@ -1,4 +1,4 @@
-# Working-with-BRFFS-and-EIA-Gasolone-Price-Data
+# Working-with-BRFFS-and-EIA-Gasoline-Price-Data
 
 
 For this project, I compiled data from the Behavioral Risk Factor Surveillance System and monthly (BRFSS), state-level, gasoline price data from the US. Energy Information Administration (EIA).
